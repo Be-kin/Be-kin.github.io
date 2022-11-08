@@ -80,7 +80,7 @@ header a :hover{
 #waveTopBlanc{
     background: url(./media/waveTopBlanc.svg) repeat-x;
     position: absolute;
-    bottom: 120px;
+    bottom: 10px;
     overflow: hidden;
     width: 6400px;
     height: 198px;
